@@ -10,5 +10,3 @@ SELECT * FROM movies WHERE "rankscore" BETWEEN 5 AND 7 AND "year" BETWEEN 2004 A
 -- no.4
 SELECT COUNT(rankscore) FROM movies WHERE "rankscore"=6 ;
 
--- no.5 
-
